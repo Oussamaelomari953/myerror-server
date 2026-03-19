@@ -1,0 +1,13 @@
+{
+  "name": "myerror-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^14.0.0",
+    "firebase-admin": "^12.0.0"
+  }
+}
